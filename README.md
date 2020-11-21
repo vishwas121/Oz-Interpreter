@@ -1,7 +1,7 @@
 # Homework 2 CS350A
 Vishwas choudhary 180876
 
-## Code inspired from previous year assignments
+#### Code inspired from previous year assignments
 All parts done and merged.
 
 
